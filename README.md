@@ -34,3 +34,6 @@ To run the test suite:
 python -m unittest discover -s tests
 ```
 
+## Notes
+
+It could be argued that `reduce` would offer even more efficiency in this case, however I believe that this solution offers better readabilty at marginal cost.
